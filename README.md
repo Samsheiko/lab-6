@@ -1,9 +1,5 @@
 # # Шейко Семён Группа ИТС-1 Лабораторная №6
 
-# # Шейко Семён Группа ИТС-1 Лабораторная №5
-
-
-
 
 
 
@@ -68,8 +64,10 @@
 
 
 
+<img width="1280" height="370" alt="2026-05-11 8 28 45 AM" src="https://github.com/user-attachments/assets/8c56f259-0a25-4a8a-9a9c-f672a05b2d1a" />
 
-![Uploading image.png…]()
+
+
 
 
 
