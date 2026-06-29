@@ -1,0 +1,14 @@
+C:\Users\samsheiko\source\repos\laba6.2\bin\Debug\net8.0\laba6.2.exe
+C:\Users\samsheiko\source\repos\laba6.2\bin\Debug\net8.0\laba6.2.deps.json
+C:\Users\samsheiko\source\repos\laba6.2\bin\Debug\net8.0\laba6.2.runtimeconfig.json
+C:\Users\samsheiko\source\repos\laba6.2\bin\Debug\net8.0\laba6.2.dll
+C:\Users\samsheiko\source\repos\laba6.2\bin\Debug\net8.0\laba6.2.pdb
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.AssemblyInfoInputs.cache
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.AssemblyInfo.cs
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.csproj.CoreCompileInputs.cache
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.dll
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\refint\laba6.2.dll
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.pdb
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\laba6.2.genruntimeconfig.cache
+C:\Users\samsheiko\source\repos\laba6.2\obj\Debug\net8.0\ref\laba6.2.dll
