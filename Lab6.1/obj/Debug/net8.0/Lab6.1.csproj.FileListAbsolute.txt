@@ -1,0 +1,14 @@
+C:\Users\samsheiko\source\repos\Lab6.1\bin\Debug\net8.0\Lab6.1.exe
+C:\Users\samsheiko\source\repos\Lab6.1\bin\Debug\net8.0\Lab6.1.deps.json
+C:\Users\samsheiko\source\repos\Lab6.1\bin\Debug\net8.0\Lab6.1.runtimeconfig.json
+C:\Users\samsheiko\source\repos\Lab6.1\bin\Debug\net8.0\Lab6.1.dll
+C:\Users\samsheiko\source\repos\Lab6.1\bin\Debug\net8.0\Lab6.1.pdb
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.AssemblyInfoInputs.cache
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.AssemblyInfo.cs
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.csproj.CoreCompileInputs.cache
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.dll
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\refint\Lab6.1.dll
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.pdb
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\Lab6.1.genruntimeconfig.cache
+C:\Users\samsheiko\source\repos\Lab6.1\obj\Debug\net8.0\ref\Lab6.1.dll
