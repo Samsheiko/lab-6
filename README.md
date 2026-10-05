@@ -60,7 +60,8 @@
 
 
 
-<img width="1280" height="370" alt="2026-05-11 8 28 45 AM" src="https://github.com/user-attachments/assets/8c56f259-0a25-4a8a-9a9c-f672a05b2d1a" />
+<img width="890" height="392" alt="image" src="https://github.com/user-attachments/assets/84c41960-14ca-443e-a33b-6e2a6f054d47" />
+
 
 
 
